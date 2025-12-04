@@ -19,8 +19,8 @@ Step 6: Analyzing the dataset using visualizing tools form matplot library or se
 
 ## CODING AND OUTPUT:
 ```
-NAME : S.ANUSHARON
-REG NO : 212222240010
+NAME : S.Haridharshini
+REG NO : 212221230033
 ```
 ## DATA CLEANING PROCESS
 ```
